@@ -6,4 +6,4 @@ produto = 1
 while n <= fat:
     produto = produto * n
     n = n + 1
-print (f"Fatorial de {fat}: %d" %produto)
+print ("Fatorial de %d: %d" %(fat, produto))
