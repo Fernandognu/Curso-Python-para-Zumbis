@@ -14,9 +14,7 @@ print ("Fatorial de 10: %d" %produto)
 
 n = 1
 produto = 1
-
 while n <= 9:
     n = n + 1
     produto = produto * n
-    
 print ("Fatorial de 10: %d" %produto)
