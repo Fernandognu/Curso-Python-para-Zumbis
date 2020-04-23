@@ -2,7 +2,7 @@
 
 minutos = int(input("Minutos usados: "))
 
-if minutos < 200:
+'''if minutos < 200:
     tarifa = 0.20
 else:
     if minutos <= 400:
@@ -12,7 +12,7 @@ else:
             tarifa = 0.15
         else:
             tarifa = 0.08
-print (f"Valor da Conta é R$ {minutos * tarifa:.2f}")
+print (f"Valor da Conta é R$ {minutos * tarifa:.2f}")'''
 
 if minutos < 200:
     tarifa = 0.20
